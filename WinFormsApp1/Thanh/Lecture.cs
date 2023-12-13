@@ -8,5 +8,6 @@ namespace WinFormsApp1.Thanh
 {
     internal class Lecture
     {
+        public int MSSV { get; set; }
     }
 }
