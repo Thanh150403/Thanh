@@ -8,6 +8,10 @@ namespace WinFormsApp1.Thanh
 {
     internal class Students
     {
+
         public int ID { get; set; }
+
+        public int MSSV { get; set; }
+
     }
 }
